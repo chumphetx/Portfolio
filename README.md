@@ -19,7 +19,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ***
 
 # Python
-
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+| 📺 [NBA Player Stats Analysis](https://github.com/chumphetx/EDA_-Basketball/blob/main/Eda_basketball.ipynb) | EDA | By analyzing the NBA 2022-2023 season data, this project aims to provide valuable insights into player performances| pandas|   
 ***
 
 # PowerBi
