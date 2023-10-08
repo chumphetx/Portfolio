@@ -22,6 +22,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 | 📺 [NBA Player Stats Analysis](https://github.com/chumphetx/EDA_-Basketball/blob/main/Eda_basketball.ipynb) | EDA | By analyzing the NBA 2022-2023 season data, this project aims to provide valuable insights into player performances| pandas|   
+| 🏠 [Predicting Home Prices in Banglore](https://github.com/chumphetx/House_Predict/blob/main/House_Predict.ipynb) | EDA,ML | create a predictive model using different models to train and find the best accuracy model| pandas, matplotlib|  
 ***
 
 # PowerBi
