@@ -25,7 +25,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🏠 [Predicting Home Prices in Banglore](https://github.com/chumphetx/House_Predict/blob/main/House_Predict.ipynb) | EDA,ML | I create a predictive model using different models to train and find the best accuracy model| pandas, matplotlib|  
 ***
 
-# PowerBi
+# DashBoard
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
